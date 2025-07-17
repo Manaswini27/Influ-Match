@@ -51,3 +51,5 @@ It returns:
 [JSON Response]
        ↓
 React: Display Card + Chart
+
+
