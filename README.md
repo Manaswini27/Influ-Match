@@ -36,7 +36,7 @@ It returns:
 
 ---
 
-## ⚙ Architecture Overview
+##  Architecture Overview
 
 ```txt
 [User Input] → React Form
@@ -51,5 +51,15 @@ It returns:
 [JSON Response]
        ↓
 React: Display Card + Chart
+
+
+
+git clone https://github.com/Manaswini27/InfluMatch.git
+cd InfluMatch
+cd server
+python -m venv venv
+source venv/bin/activate  # or venv\Scripts\activate (Windows)
+pip install -r requirements.txt
+python app.py
 
 
